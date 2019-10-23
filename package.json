@@ -1,0 +1,27 @@
+{
+  "name": "scraper_2",
+  "version": "1.0.0",
+  "description": "another web scraper built with node and nightmare/cheerio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justisGipson/scraper_2.git"
+  },
+  "keywords": [
+    "web scraper",
+    "node"
+  ],
+  "author": "justisGipson <justis710@gmail.com> (justisgipson.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justisGipson/scraper_2/issues"
+  },
+  "homepage": "https://github.com/justisGipson/scraper_2#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "nightmare": "^3.0.2"
+  }
+}
